@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TMI-7
 - 👀 I’m interested in Full Stack java development and training
-- 🌱 I’m currently learning Oracle
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on any Software development life cycle activities 
 - 📫 How to reach me ...email>>>ctimoi2000@gmail.com 
 
