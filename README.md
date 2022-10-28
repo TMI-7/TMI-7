@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://twitter.com/@tmi_collins"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/colince-temoi/"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/Yt.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCbaT59nazflZV5x2ryaHxNQ"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/Yt.png"></a>&nbsp;&nbsp;
 </p>
 
 
