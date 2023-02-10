@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 <p align="center">
 <a href="https://twitter.com/@tmi_collins"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/t.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/colince-temoi/"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/l.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/colince-temoi-238a821b6/"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCbaT59nazflZV5x2ryaHxNQ"><img height="30" src="https://raw.githubusercontent.com/TMI-7/TMI-7/master/img/social/Yt.png"></a>&nbsp;&nbsp;
 </p>
 
