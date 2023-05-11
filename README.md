@@ -42,6 +42,6 @@
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Student | Multimedia University Of Kenya | Sept 2019 - present |
+| Student | Multimedia University Of Kenya | Sept 2019 - April 2023|
 
 
