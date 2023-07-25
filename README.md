@@ -43,5 +43,7 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Student | Multimedia University Of Kenya | Sept 2019 - April 2023|
+| Atachee | Taltech International | May 2023 - July 2023|
+| Intern | GRise Systems Solutions | July 2023 -        |
 
 
