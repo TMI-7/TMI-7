@@ -45,5 +45,5 @@
 | Student | Multimedia University Of Kenya | Sept 2019 - April 2023|
 | Atachee | Taltech International | May 2023 - July 2023|
 | Intern | GRise Systems Solutions | July 2023 - September 2023|
-| Junior Sotware Engineer | CSM Tech Africa | October 2023 - | 
+| Junior Sotware Engineer | CSM Tech Africa | October 2023 - Present | 
 
